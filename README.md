@@ -16,8 +16,6 @@ It demonstrates how to manage **Users, Categories, Products, and Orders** with
 - Implements **One-to-Many** and **Many-to-Many** relationships
 
 
-
-
 ---
 
 ## 🛠️ Tech Stack
