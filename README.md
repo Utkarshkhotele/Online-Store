@@ -1,5 +1,6 @@
 # 🛒Online Store
 
+
 A **console-based Online Store project** built with **Hibernate ORM** and **MySQL**.  
 It demonstrates how to manage **Users, Categories, Products, and Orders** with  
 **CRUD operations, transactions, and relationships** (One-to-Many, Many-to-Many).  
